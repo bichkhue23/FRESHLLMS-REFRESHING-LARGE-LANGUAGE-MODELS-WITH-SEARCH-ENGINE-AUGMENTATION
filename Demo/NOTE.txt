@@ -1,0 +1,2 @@
+freshprompt.ipynb: Source code của FreshPrompt được tác giả cung cấp tại đường dẫn https://github.com/freshllms/freshqa
+freshprompt_edited_for_demp.ipynb: Source code được nhóm chỉnh sửa thêm để giúp chúng em trong việc minh họa code.
